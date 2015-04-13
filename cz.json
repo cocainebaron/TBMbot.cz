@@ -122,7 +122,7 @@
     "muterank": "[@%%NAME%%] Nemůžeš dát mute uživateli, který má vyšší staff než ty.",
     "oplist": "/OP list: http://bit.ly/1C1sdss",
     "pong": "Pong!",
-    "reload": "/Za chvilku jsem zpět.",
+    "reload": "Za chvilku jsem zpět.",
     "removenotinwl": "[@%%NAME%%] Uživatel @%%USERNAME%% není ve frontě.",
     "roomrules": "Pravidla roomky: http://bit.ly/1olWxoB",
     "sessionstats": "[@%%NAME%%] Celkem wootů: %%WOOTS%%, celkem mehů: %%MEHS%%, celkem přidání: %%GRABS%%.",
