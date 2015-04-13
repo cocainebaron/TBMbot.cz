@@ -9,7 +9,7 @@
 
 
     "welcome": "/me Vítej @%%NAME%%",
-    "welcomeback":/me "Vítej zpět @%%NAME%%",
+    "welcomeback": "/me Vítej zpět @%%NAME%%",
     "songknown": "/me @%%NAME%%, tento song je již v DJ historii.",
     "timelimit": "/me @%%NAME%%, tvůj song je delší než %%MAXLENGTH%% minut, proto byl skipnut.",
     "permissionownsong": "/me :up: @%%NAME%% má oprávnění hrát svou vlastní produkci!",
@@ -98,7 +98,7 @@
     "notinwaitlist": "/me @%%NAME%%, nejsi ve frontě.",
     "eta": "/me @%%NAME%% budeš na řadě přibližně za %%TIME%%.",
     "facebook": "/me Náš facebook: https://www.facebook.com/tbmcz?fref=ts",
-    "starterhelp": "/me Příkazy: http://hjv.wbs.cz/Chat-Bot.html",
+    "starterhelp": "/me Příkazy: http://bit.ly/TBMcommands,
     "roulettejoin": "/me @%%NAME%%  přihlásil/a ses do rulety! (napiš !leave pokud ji chceš opustit.)",
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% je v místnosti %%TIME%%.",
     "kickrank": "/me [@%%NAME%%] nemůžeš vyhodit lidi, kteří mají vyšší staff než ty!",
