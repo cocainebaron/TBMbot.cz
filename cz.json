@@ -141,7 +141,7 @@
     "commandscd": "[@%%NAME%%] Omezení pro uživatelské příkazy bylo nastaveny na %%TIME%% sekund.",
     "voteratio": "[@%%NAME%%] @%%USERNAME%% ~ wootů: %%WOOT%%, mehů: %%MEHS%%, ratio (w/m): %%RATIO%%.",
     "website": "",
-    "youtube": "[%%NAME%%] Link na náš youtube: %%LINK%%",
+    "youtube": "",
     "songstatistics": "%%ARTIST%% - %%TITLE%%: [:+1:%%WOOTS%%|:star:%%GRABS%%|:-1:%%MEHS%%]."
     
     
