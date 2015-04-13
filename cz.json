@@ -142,7 +142,10 @@
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ wootů: %%WOOT%%, mehů: %%MEHS%%, ratio (w/m): %%RATIO%%.",
     "website": "/me Prosím navštivte naše webovky: http://hjv.wbs.cz/",
     "youtube": "/me [%%NAME%%] Link na náš youtube: %%LINK%%",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: [:+1:%%WOOTS%%|:star:%%GRABS%%|:-1:%%MEHS%%]"
+    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: [:+1:%%WOOTS%%|:star:%%GRABS%%|:-1:%%MEHS%%]",
+    "givefacka": "/me Napiš !facka @user a dej někomu facku.",
+    "nouserfacka": "/me Nevidím %%NAME%% v roomce, tak mu/ji nemůžeš dát facku.",
+    "selffacka": "/me %%NAME%% děláš si srandu?? Přece nebudeš fackovat sám/sama sebe. -,-"
     
     
 }
