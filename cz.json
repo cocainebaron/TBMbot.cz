@@ -98,7 +98,7 @@
     "notinwaitlist": "@%%NAME%%, nejsi ve frontě.",
     "eta": "@%%NAME%% budeš na řadě přibližně za %%TIME%%.",
     "facebook": "Náš facebook: https://www.facebook.com/tbmcz?fref=ts",
-    "starterhelp": "Tenhle link ti pomůže, jak začít na plugu: %%LINK%%",
+    "starterhelp": "",
     "roulettejoin": "@%%NAME%%  přihlásil/a ses do rulety! (napiš !leave pokud ji chceš opustit.)",
     "jointime": "[@%%NAMEFROM%%] @%%USERNAME%% je v místnosti %%TIME%%.",
     "kickrank": "[@%%NAME%%] nemůžeš vyhodit lidi, kteří mají vyšší staff než ty!",
