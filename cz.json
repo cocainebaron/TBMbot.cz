@@ -83,7 +83,7 @@
     "afkstatusreset": "[@%%NAME%%] Obnovil/a AFK limit uživateli @%%USERNAME%%.",
     "inactivefor": "[@%%NAME%%] @%%USERNAME%% je v roomce po dobu %%TIME%%.",
     "autowoot": "OrigemWoot link: http://origem-woot.com/",
-    "brandambassador": "Brand Ambassador slouží jako "hlas" uživatelů plug.dj. Podporují akce, pomáhají komunitám, sdílejí je na plug.dj, který je celosvětový. Pro více informací: https://plug.dj/ba.",
+    "brandambassador": "Brand Ambassador slouží jako hlas uživatelů plug.dj. Podporují akce, pomáhají komunitám, sdílejí je na plug.dj, který je celosvětový. Pro více informací: https://plug.dj/ba.",
     "bouncerplusrank": "[@%%NAME%%] Musíš být manažer, abys mohl/a aktivovat Bouncer+.",
     "chatcleared": "[@%%NAME%%] Promazal/a chat.",
     "deletechat": "[@%%NAME%%] Promazal/a chat od uživatele %%USERNAME%%.",
