@@ -142,7 +142,7 @@
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ wootů: %%WOOT%%, mehů: %%MEHS%%, ratio (w/m): %%RATIO%%.",
     "website": "/me Prosím navštivte naše webovky: http://hjv.wbs.cz/",
     "youtube": "/me [%%NAME%%] Link na náš youtube: %%LINK%%",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
+    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: [:+1:%%WOOTS%%|:star:%%GRABS%%|:-1:%%MEHS%%]"
     
     
 }
