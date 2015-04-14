@@ -19,7 +19,7 @@
     "isopen": "/me Ruleta je spuštěna! Napište !join pro přihlášení!",
     "winnerpicked": "/me A vítěz byl vybrán! @%%NAME%% gratulujeme.",
 	
-    "ball": "/me [%%NAME1%%] Dotaz: \"%%QUESTION%%\" a [%%BOTNAME%%] odpověď: \"%%RESPONSE%%\"",
+    "ball": "/me %%NAME%% se zeptal/a: \"%%QUESTION%%\" %%BOTNAME%% odpověděl: \"%%RESPONSE%%\"",
 
     "notghosting": "/me [%%NAME1%%] %%NAME2%% není ghoust.",
     "ghosting": "/me [%%NAME1%%] %%NAME2%% je buď ghoust, nebo ho tu není.",
