@@ -117,7 +117,7 @@
     "kickrank": "/me [@%%NAME%%] nemůžeš vyhodit lidi, kteří mají vyšší staff než ty!",
     "kick": "/me [@%%NAME%%], @%%USERNAME%% byl/a vyhozen/a z komunity na %%TIME%% minut.",
     "kill": "/me Bot vypnut.",
-    "logout": "/me [@%%NAME%%] Odhlašuje %%BOTNAME%%",
+    "logout": "/me [@%%NAME%%] Odhlásil/a %%BOTNAME%%",
     "rouletteleave": "/me @%%NAME%% opustil ruletu!",
     "songlink": "/me [@%%NAME%%] Link na aktuální song: %%LINK%%",
     "usedlockskip": "/me [%%NAME%%] použil/a lockskip.",
