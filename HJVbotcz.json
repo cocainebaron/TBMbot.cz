@@ -7,7 +7,6 @@
     "bouncer": "Bot nemůže přesouvat lidi, když je vyhazovač.",
     "online": "/me %%BOTNAME%% v%%VERSION%% online!", 
 
-
     "welcome": "/me Vítej @%%NAME%%",
     "welcomeback": "/me Vítej zpět @%%NAME%%",
     "songknown": "/me @%%NAME%%, tento song je již v DJ historii.",
@@ -33,7 +32,7 @@
     "notdisconnected": "/me @%%NAME%% nebyl/a jsi odpojen/a za dobu spuštění bota. Nepoužívej !dc, když to není potřeba.",
     "noposition": "/me Předchozí pozice nenalezena. Pořadník potřebuje aktualizovat alespoň jednou zaregistrovanou pozici uživatele.",
     "toolongago": "/me @%%NAME%% doba nepřítomnosti byla příliš dlouhá: %%TIME%%.",
-    "valid": "/me @%%NAME%% byl/a odpojen/a před %%TIME%%. Bude přesunut/a na pozici %%POSITION%%.",
+    "valid": "/me @%%NAME%% byl/a odpojen/a před %%TIME%% z pozice %%POSITION%%.",
 
 
     "warning1": "/me @%%NAME%%, byl/a jsi AFK po dobu %%TIME%%, prosím napiš nějakou zprávu do chatu v rozmezí 2 minut nebo budeš vyřazen/a z DJ fronty.",
