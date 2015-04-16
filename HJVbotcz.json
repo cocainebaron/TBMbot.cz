@@ -130,7 +130,7 @@
     "move": "/me [%%NAME%% použil/a move.]",
     "mutednotime": "/me [@%%NAME%%] Dal/a mute @%%USERNAME%%.",
     "mutedmaxtime": "/me [@%%NAME%%] Můžeš použít pouze maximální délku mute %%TIME%% minut.",
-    "mutedtime": "/me [@%%NAME%%] Dala mute @%%USERNAME%% na dobu %%TIME%% minut.",
+    "mutedtime": "/me [@%%NAME%%] Dal/a mute @%%USERNAME%% na dobu %%TIME%% minut.",
     "unmuted": "/me [@%%NAME%%] Zrušil/a mute @%%USERNAME%%.",
     "muterank": "/me [@%%NAME%%] Nemůžeš dát mute uživateli, který má vyšší staff než ty.",
     "oplist": "/me OP list: %%LINK%%",
